@@ -1,6 +1,7 @@
 # iTunes Search
 
 ## Directions
+ <h3 class="f5 f4-ns mb0 black-90">${song.body}</h3>
 
 For this app, we will request data from the iTunes API.
 
